@@ -2,7 +2,7 @@
 
 A modern, fast, and fully responsive landing page designed and developed for Monovision Studio to showcase high-quality photography and creative media services.
 
-[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen?style=for-the-badge)](https://nazarsynchyna.github.io/Monovision_Studio/)
+[![Live Demo](https://img.shields.io/badge/demo-online-brightgreen?style=for-the-badge)](https://nazarsynchyna.github.io/monovision-studio/)
 
 ---
 
@@ -31,7 +31,7 @@ Key focus areas during development:
 
 ### Live Preview
 You can explore the interactive version of the website here:  
- **[Monovision Studio Live Website](https://nazarsynchyna.github.io/Monovision_Studio/)**
+ **[Monovision Studio Live Website](https://nazarsynchyna.github.io/monovision-studio/)**
 
 ---
 
@@ -40,7 +40,7 @@ You can explore the interactive version of the website here:
 Since this is a static frontend project, there are no heavy backend compilers or databases to install. You can easily run it locally in a few seconds.
 
 ### 1. Clone the repository
-git clone [https://github.com/nazarSynchyna/Monovision_Studio.git](https://github.com/nazarSynchyna/Monovision_Studio.git)
+git clone [https://github.com/nazarSynchyna/Monovision_Studio.git](https://github.com/nazarSynchyna/monovision-studio.git)
 
 ### 2. Navigate to the source folder
 cd Monovision_Studio/src
