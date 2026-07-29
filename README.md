@@ -40,7 +40,7 @@ You can explore the interactive version of the website here:
 Since this is a static frontend project, there are no heavy backend compilers or databases to install. You can easily run it locally in a few seconds.
 
 ### 1. Clone the repository
-git clone [https://github.com/nazarSynchyna/Monovision_Studio.git](https://github.com/nazarSynchyna/monovision-studio.git)
+git clone [https://github.com/nazarSynchyna/monovision-studio.git](https://github.com/nazarSynchyna/monovision-studio.git)
 
 ### 2. Navigate to the source folder
 cd Monovision_Studio/src
